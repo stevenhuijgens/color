@@ -1,5 +1,5 @@
 <?
-$color = 'pink';
+$color = 'yellow';
 ?>
 <html>
 <head>
